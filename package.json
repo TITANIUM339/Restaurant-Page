@@ -1,0 +1,23 @@
+{
+  "name": "restaurant-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TITANIUM339/Restaurant-Page.git"
+  },
+  "author": "TITANIUM339",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TITANIUM339/Restaurant-Page/issues"
+  },
+  "homepage": "https://github.com/TITANIUM339/Restaurant-Page#readme",
+  "devDependencies": {
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  }
+}
